@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting-classworkpractise", "Casting-classworkpractise\Casting-classworkpractise.csproj", "{14B4833A-892E-4500-9388-AF92A203CD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B4833A-892E-4500-9388-AF92A203CD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B4833A-892E-4500-9388-AF92A203CD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B4833A-892E-4500-9388-AF92A203CD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B4833A-892E-4500-9388-AF92A203CD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06ECFBFB-14F3-47EB-BE37-9F1C3F78B4EF}
+	EndGlobalSection
+EndGlobal
